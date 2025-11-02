@@ -59,9 +59,9 @@ These files are configured to be served via GitHub Pages from the `/docs` folder
 
 Once GitHub Pages is configured with `/docs` as the source:
 
-- Privacy Policy: `https://[your-username].github.io/[repository-name]/privacy-policy.html`
-- Terms of Service: `https://[your-username].github.io/[repository-name]/terms-of-service.html`
-- Account Deletion: `https://[your-username].github.io/[repository-name]/account-deletion.html`
+- Privacy Policy: `https://vibecoder95.github.io/PingU_Legal_Policy_v1/privacy-policy.html`
+- Terms of Service: `ttps://vibecoder95.github.io/PingU_Legal_Policy_v1/terms-of-service.html`
+- Account Deletion: `ttps://vibecoder95.github.io/PingU_Legal_Policy_v1/account-deletion.html`
 
 ### Configuration Steps
 
@@ -153,3 +153,4 @@ All documents are copyright © 2025 PingU. All rights reserved.
 
 **Last Updated:** January 2025  
 **Maintained for:** PingU Android App
+
