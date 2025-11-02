@@ -71,14 +71,6 @@ Once GitHub Pages is configured with `/docs` as the source:
 4. Wait 1-2 minutes for deployment
 5. Access your documents at the URLs above
 
-### Example URLs
-
-If your repository is `PingU_Legal_Policy` under username `vibecoder95`:
-
-- Privacy Policy: `https://vibecoder95.github.io/PingU_Legal_Policy/privacy-policy.html`
-- Terms of Service: `https://vibecoder95.github.io/PingU_Legal_Policy/terms-of-service.html`
-- Account Deletion: `https://vibecoder95.github.io/PingU_Legal_Policy/account-deletion.html`
-
 ## Google Play Store Integration
 
 These HTML files are designed to meet Google Play Store requirements:
@@ -153,4 +145,5 @@ All documents are copyright © 2025 PingU. All rights reserved.
 
 **Last Updated:** January 2025  
 **Maintained for:** PingU Android App
+
 
